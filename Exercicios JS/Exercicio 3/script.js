@@ -1,4 +1,4 @@
-function RandonNumber{
+function RandonNumber() {
 
 var rn = Math.floor(Math.random() * 10 ) + 1
 

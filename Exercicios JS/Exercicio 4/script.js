@@ -6,7 +6,7 @@ if(Image.src.match('apagada.jpg')){
     Image.src ='Images/acesa.jpg';
 
 } else{
-   Image.scr='Images/apagada';
+   Image.src ='Images/apagada.jpg';
 
 
 }
